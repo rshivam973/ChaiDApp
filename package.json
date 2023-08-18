@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "ethereum-unit-converter": "^0.0.17",
+    "hardhat": "^2.13.0",
+    "hardhat-ethers": "^1.0.1"
+  }
+}
